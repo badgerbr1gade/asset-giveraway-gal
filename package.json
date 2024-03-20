@@ -1,0 +1,24 @@
+{
+  "name": "asset-giveraway-gal",
+  "version": "1.0.0",
+  "description": "Promote asset distribution with Asset Giveraway Gal, facilitating fair and transparent asset distribution within decentralized communities.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/badgerbr1gade/asset-giveraway-gal"
+  },
+  "author": "badgerbr1gade",
+  "license": "MIT",
+  "dependencies": {
+    "asset-galaxy-discoverer": "1.0.0",
+    "asset-giveraway-gal": "1.0.0",
+    "multer": "1.0.0",
+    "jquery": "1.0.0",
+    "jest": "1.0.0",
+    "nodemon": "1.0.0",
+    "web3-react": "1.0.0"
+  }
+}
